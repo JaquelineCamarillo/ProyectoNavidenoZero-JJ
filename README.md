@@ -64,10 +64,12 @@ Complementa la tabla
 
 ## Node Red (FLUJO)
 -Descarga
+[flows.json](https://github.com/user-attachments/files/18012087/flows.json)
 
 
 -Imagen
 
+![Imagen de WhatsApp 2024-12-04 a las 11 27 01_c2d2dd48](https://github.com/user-attachments/assets/fcd872b8-facf-4620-9d23-5162e74e3d16)
 
 
 
