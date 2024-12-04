@@ -49,28 +49,25 @@ Complementa la tabla
 ## Comunicacion
 - Describir la manera que creen que utilizaria su celular para comunicarse con su personaje
 
-- Desde el celular se podra escoger el color de las luces de el Angel ademas de la musica que estara sonando desde el Angel
+- Desde el celular se podra encender la iluminacion de la tira led y activar el mensaje de la matrix
 
 
 
 ## Video
 
 
-https://github.com/Ale0515-GG/Angel/assets/116208731/1c1d9293-ecda-4693-a7a6-7c46e5705d87
 
-## Code
-https://drive.google.com/file/d/1Lpi2XaqxQ8SyW2eDfSSG6EpT64YVfI8J/view?usp=drivesdk
-
-https://drive.google.com/file/d/1xXzzfkBDQ26QmD_1KVUvRCQjyWWOXN8K/view?usp=drivesdk
+## Codigo
 
 
 
-## Flujo
+
+## Node Red (FLUJO)
 -Descarga
-[flows.json](https://github.com/Ale0515-GG/Angel/files/13572076/flows.json)
+
 
 -Imagen
-![WhatsApp Image 2023-12-05 at 1 39 02 PM](https://github.com/Ale0515-GG/Angel/assets/116208731/e2f8a477-c710-47b9-a788-a7bb11152ec1)
+
 
 
 
