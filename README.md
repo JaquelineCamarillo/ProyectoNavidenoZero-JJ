@@ -77,21 +77,15 @@ https://drive.google.com/file/d/1WZeJ2UYa-XdSbCwrnwjbZEBe75PfDovJ/view?usp=shari
 
 ## JavaScript
 
+|Numero de examen|Imagen de porcentaje optenido|
 |-|-|
-|Examen 1|![Imagen de WhatsApp 2024-11-27 a las 14 16 27_deb3e4d0](https://github.com/user-attachments/assets/f7f8fb0a-5a32-4e02-b6c9-bda03eb3757d)
-|
-|Examen 2|![Imagen de WhatsApp 2024-11-27 a las 14 58 25_d0adfbd8](https://github.com/user-attachments/assets/bc669367-1862-4851-bcfd-51a93dec5128)
-|
-|Examen 3|![Imagen de WhatsApp 2024-11-27 a las 15 11 26_8ad0c4f4](https://github.com/user-attachments/assets/e154deaa-6fdd-424a-9ebc-5debdefce6d5)
-|
-|Examen 4|![Imagen de WhatsApp 2024-11-27 a las 17 29 57_630e01bb](https://github.com/user-attachments/assets/d3d1f508-dd6b-46a2-a2a7-83886c19d656)
-|
-|Examen 5|![Imagen de WhatsApp 2024-11-27 a las 17 29 12_92e8ce2c](https://github.com/user-attachments/assets/06057328-86e4-4241-840e-f97e6d878d5e)
-|
-|Examen 6|![Imagen de WhatsApp 2024-11-27 a las 17 55 52_32dcd770](https://github.com/user-attachments/assets/4fba5d3f-26ee-420b-91c3-38181fcbcdf5)
-|
-|Examen Final|![Imagen de WhatsApp 2024-11-27 a las 18 45 36_5496cd91](https://github.com/user-attachments/assets/8d51df43-951f-454e-a35d-37b6d6d1827c)
-|
+|Examen 1|![Imagen de WhatsApp 2024-11-27 a las 14 16 27_deb3e4d0](https://github.com/user-attachments/assets/f7f8fb0a-5a32-4e02-b6c9-bda03eb3757d)|
+|Examen 2|![Imagen de WhatsApp 2024-11-27 a las 14 58 25_d0adfbd8](https://github.com/user-attachments/assets/bc669367-1862-4851-bcfd-51a93dec5128)|
+|Examen 3|![Imagen de WhatsApp 2024-11-27 a las 15 11 26_8ad0c4f4](https://github.com/user-attachments/assets/e154deaa-6fdd-424a-9ebc-5debdefce6d5)|
+|Examen 4|![Imagen de WhatsApp 2024-11-27 a las 17 29 57_630e01bb](https://github.com/user-attachments/assets/d3d1f508-dd6b-46a2-a2a7-83886c19d656)|
+|Examen 5|![Imagen de WhatsApp 2024-11-27 a las 17 29 12_92e8ce2c](https://github.com/user-attachments/assets/06057328-86e4-4241-840e-f97e6d878d5e)|
+|Examen 6|![Imagen de WhatsApp 2024-11-27 a las 17 55 52_32dcd770](https://github.com/user-attachments/assets/4fba5d3f-26ee-420b-91c3-38181fcbcdf5)|
+|Examen Final|![Imagen de WhatsApp 2024-11-27 a las 18 45 36_5496cd91](https://github.com/user-attachments/assets/8d51df43-951f-454e-a35d-37b6d6d1827c)|
 
 
 
