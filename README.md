@@ -3,7 +3,8 @@ Camarillo Olaez Juana Jaqueline GDS0643
 
 ## NOMBRE DEL PERSONAJE
 
--Nombre del personaje -Zero
+- Nombre del personaje:
+-- Zero
 
 ## INTEGRANTES
 
@@ -54,7 +55,7 @@ Complementa la tabla
 
 
 ## Video
-
+https://vm.tiktok.com/ZMke55SXG/
 
 
 ## Codigo 
@@ -72,6 +73,13 @@ https://drive.google.com/file/d/1WZeJ2UYa-XdSbCwrnwjbZEBe75PfDovJ/view?usp=shari
 
 
 ![Imagen de WhatsApp 2024-12-04 a las 11 32 17_bda4bc11](https://github.com/user-attachments/assets/2b3fd193-3159-48a0-8a19-ad6853267541)
+
+## JavaScript
+
+
+
+
+## Retroalimentación hacia el/la compañero(a)
 
 
 
